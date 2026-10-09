@@ -84,8 +84,6 @@ El laboratorio se dividió en siete tareas: configuración del repositorio, orga
 
 ## Capturas de pantalla
 
-## Capturas de pantalla
-
 ### Página de inicio
 ![Página de inicio de Music Blog](screenshots/screenshot1.png)
 
